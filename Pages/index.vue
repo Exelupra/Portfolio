@@ -10,7 +10,7 @@
 
 </script>
 
-<style scoped>
+<style>
 /* Style général */
 h1 {
   font-size: 24px;
