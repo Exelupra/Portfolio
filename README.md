@@ -8,7 +8,9 @@ Veuillez noter que pour accéder au site déployé, vous devez être connecté a
 
 ### Lien vers le GitHub ✨
 
-[GitHub Portfolio](https://github.com/Exelupra/Portfolio)
+[GitHub Portfolio](https://github.com/Exelupra)
+
+Mon github n'est pas très bien fait car beaucoup de mes projet sont en privé ou alors supprimer et ceux qui reste en public sont souvent ceux, qui sont notés.
 
 ### Installation 📍
 
