@@ -1,7 +1,7 @@
 <template>
   <div class="home-container">
-    <h1>Bienvenue sur notre site!</h1>
-    <p>Nous sommes là pour vous fournir les dernières informations et ressources sur les technologies de l'information.</p>
+    <h1>Bienvenue sur mon site!</h1>
+    <p>Pour voir .</p>
     <p>Explorez nos articles, tutoriels et actualités pour rester à jour avec les développements les plus récents.</p>
   </div>
 </template>

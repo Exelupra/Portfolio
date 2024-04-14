@@ -6,7 +6,7 @@
     <p>Ce qui m'a le plus déçu, c'est le parcours proposé à la fin de la deuxième année. Le nombre limité de places disponibles était frustrant pour les étudiants qui souhaitaient poursuivre leurs études au niveau du master.</p>
     <p>En résumé, le cours a largement répondu à mes attentes en termes d'acquisition de bases solides en informatique, mais il y avait des points à améliorer, notamment en ce qui concerne les passerelles disponibles à la fin du cours et la pertinence de certains cours non techniques.
     </p>
-    <img src="../public/logo.png" alt="Description de l'image">
+    <img src="../../public/logo.png" alt="Description de l'image">
   </div>
 </template>
 
